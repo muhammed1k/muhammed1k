@@ -24,7 +24,7 @@ I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcM
 
   - :zap: In my free time, I tackle problems on Kaggle and read books and Play Chess.
 
-  - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mohamedkelbrolosy@gmail.com)
+  - :mailbox:How to reach me: [mohamedkelbrolosy@gmail.com](mailto:mohamedkelbrolosy@gmail.com)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :

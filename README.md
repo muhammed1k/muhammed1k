@@ -20,7 +20,7 @@
 I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
   - :telescope: Machine Learning Engineer Passionate about Computer Vision and AI in Gaming.
 
-  - :seedling: Check My Resume <a href="https://drive.google.com/file/d/1DvGpDtfRBC-6g57otlk812aLZ5NnBi7A/view?usp=sharing">Resume</a>
+  - :seedling: Check My Resume <a href="https://drive.google.com/file/d/1PKvYNfJQMtfU23_iH_0KyGoUVdKwcRR8/view?usp=drive_link">Resume</a>
 
   - :zap: In my free time, I tackle problems on Kaggle and read books and Play Chess.
 
